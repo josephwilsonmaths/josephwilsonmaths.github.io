@@ -12,3 +12,5 @@ I am a current Mathematics PhD student at the University of Queensland, Australi
 I am broadly interested in deep neural networks, with specific interest in Bayesian uncertainty quantification, estimating model quality through Bayesian frameworks, and random matrix theory. I have published several works in these areas (see [Publications](https://josephwilsonmaths.github.io/publications/)). I have also given several talks on these topics (see [Talks](https://josephwilsonmaths.github.io/talks/)).
 
 I have tutored mathematics courses at UQ for several years (see [Tutoring](https://josephwilsonmaths.github.io/tutoring/)), and I am the coordinator of the UQ Mathematical Aspects of Machine Learning seminar group. 
+
+1234
