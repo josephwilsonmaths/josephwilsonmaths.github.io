@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD. (Mathematics), The University of Queensland, 2023-Current
+* Bachelor of Mathematics (Honours I), The University of Queensland, 2022
+* Bachelor of Mathematics, The University of Queensland, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - Current: Casual Academic
+  * The University of Queensland
+  * Tutored subjects: MATH1051, MATH1052, STAT2003, STAT2004, STAT2203, STAT3001, STAT3006, MATH3102, MATH3204.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jan-July 2023: Control Engineer
+  * WhiteLaw Hydraulics, Australia
+  * Software programming and development for control systems for agricultural and industrial applications. 
 
 Publications
 ======
@@ -52,13 +36,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Coordinator of the Mathematical Aspects of Machine Learning (MAML) seminar series at the University of Queensland, 2025 - current. 
