@@ -1,5 +1,5 @@
 ---
-title: "Mechanical cell competition in a model of epithelial layer with size dependent proliferation"
+title: "Mechanical Cell Competition in a Model of Epithelial Layer with Size Dependent Proliferation"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-02-mechanical-cell-competition

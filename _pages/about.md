@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a current Mathematics PhD student at the University of Queensland, Australia, under the supervision of Fred Roosta (UQ, CIRES), Liam Hodgkinson (Uni. Melb) and Chris van der Heide (Uni. Melb). Previously I completed my BMath at UQ (2019 - 2021), and BMath (Honours I) at UQ (2022). I will be completing my PhD studies at the end of 2026. 
+I am a PhD student in Mathematics at The University of Queensland, supervised by Fred Roosta, Liam Hodgkinson, and Chris van der Heide. My research focuses on the theoretical foundations of modern AI systems, with particular emphasis on Bayesian uncertainty quantification, random matrix theory, neural tangent kernels, and generalization in deep learning.
 
-I am broadly interested in deep neural networks, with specific interest in Bayesian uncertainty quantification, estimating model quality through Bayesian frameworks, and random matrix theory. I have published several works in these areas (see [Publications](https://josephwilsonmaths.github.io/publications/)). I have also given several talks on these topics (see [Talks](https://josephwilsonmaths.github.io/talks/)).
-
-I have tutored mathematics courses at UQ for several years (see [Tutoring](https://josephwilsonmaths.github.io/tutoring/)), and I am the coordinator of the UQ Mathematical Aspects of Machine Learning seminar group. 
+My work combines mathematical analysis with large-scale empirical evaluation to better understand when deep learning systems are reliable, how uncertainty should be quantified, and what mathematical structures explain their predictive performance. See [Publications](https://josephwilsonmaths.github.io/publications/) for my published works in these areas, and [Talks](https://josephwilsonmaths.github.io/talks/) for selected talks that I have given. For my teaching experience, see [Tutoring](https://josephwilsonmaths.github.io/tutoring/), and for my CV see [CV](https://josephwilsonmaths.github.io/cv/).
