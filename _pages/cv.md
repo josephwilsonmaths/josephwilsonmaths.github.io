@@ -48,12 +48,10 @@ I am a PhD student in Mathematics at The University of Queensland, researching t
 **Joseph Wilson**, Chris van der Heide, Liam Hodgkinson, Zhichao Wang, Fred Roosta, Michael W. Mahoney<br>
 *Conference on Neural Information Processing Systems (NeurIPS), 2026*<br>
 (accepted, to appear)<br>
-[Paper (PDF)](https://arxiv.org/pdf/2610.13123)
 
 ## *Is the Last Layer Sufficient for Uncertainty Quantification?*  
 **Joseph Wilson**, Chris van der Heide, Liam Hodgkinson, Fred Roosta  
 *International Conference on Machine Learning (ICML), 2026*  
-(accepted, to appear)
 
 ## *Uncertainty Quantification with the Empirical Neural Tangent Kernel*  
 **Joseph Wilson**, Chris van der Heide, Liam Hodgkinson, Fred Roosta  
