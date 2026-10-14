@@ -4,8 +4,7 @@ collection: talks
 type: "Poster presentation"
 permalink: /talks/2025-01-01-neurips-poster
 venue: "Neural Information Processing Systems (NeurIPS)"
-date: 2025-01-01
-date_format: "%Y"
+date: 2025-12-02
 location: "San Diego, CA, USA"
 ---
 
