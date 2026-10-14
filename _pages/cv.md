@@ -44,6 +44,12 @@ I am a PhD student in Mathematics at The University of Queensland, researching t
 
 # Publications
 
+## *Why Heavy-Tailed Weight Spectra Predict Model Quality*
+**Joseph Wilson**, Chris van der Heide, Liam Hodgkinson, Zhichao Wang, Fred Roosta, Michael W. Mahoney<br>
+*Conference on Neural Information Processing Systems (NeurIPS), 2026*<br>
+(accepted, to appear)<br>
+[Paper (PDF)](https://arxiv.org/pdf/2610.13123)
+
 ## *Is the Last Layer Sufficient for Uncertainty Quantification?*  
 **Joseph Wilson**, Chris van der Heide, Liam Hodgkinson, Fred Roosta  
 *International Conference on Machine Learning (ICML), 2026*  
@@ -61,8 +67,20 @@ Chenhao Zhang, Leo Clarke, **Joseph Wilson**, Faris Saad Alsubaie, Zoltan Neufel
 
 # Invited Talks and Presentations
 
+## International Conference on Machine Learning (ICML) — Seoul, South Korea (2026)
+### *Is the Last Layer Sufficient for Uncertainty Quantification?* (Poster)
+
+## Australian Probability Conference — Brisbane, QLD, Australia (June 2026)
+### *Is the Last Layer Sufficient for Uncertainty Quantification?*
+
+## QANZIAM 2026 — Brisbane, QLD, Australia (June 2026)
+### *Is the Last Layer Sufficient for Uncertainty Quantification?* [Best Student Presentation]
+
 ## Seminar — The University of Sydney, NSW, Australia (2026)
 ### *Is the Last Layer Sufficient for Uncertainty Quantification?*
+
+## Neural Information Processing Systems (NeurIPS) — San Diego, CA, USA (2025)
+### *Uncertainty Quantification with the Empirical Neural Tangent Kernel* (Poster)
 
 ## Seminar — University of California, Berkeley, CA, USA (2025)
 ### *Is the Last Layer Sufficient for Uncertainty Quantification?*
